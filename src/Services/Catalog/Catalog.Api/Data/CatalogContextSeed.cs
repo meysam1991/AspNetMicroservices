@@ -1,5 +1,6 @@
 ﻿using Catalog.Api.Entities;
 using MongoDB.Driver;
+using System.Collections.Generic;
 
 namespace Catalog.Api.Data
 {
